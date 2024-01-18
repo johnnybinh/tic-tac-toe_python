@@ -1,7 +1,6 @@
 from os import system, name
 from array import *
 
-
 # print
 def printArr(arr):
     clear()
